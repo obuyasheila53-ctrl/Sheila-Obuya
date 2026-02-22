@@ -10,7 +10,7 @@ Postman (API Testing)
 Python/ SQL/ Excel/ Tableau
 Problem Solving and Critical Thinking
 
-##Projects
+## Projects
 Coursera Data Analysis Porjects
 Postman API Testing Exercises
 
